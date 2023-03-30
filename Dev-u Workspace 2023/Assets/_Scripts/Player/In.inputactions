@@ -1,0 +1,34 @@
+{
+    "name": "In",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "77035a2b-4336-425c-a656-12c20b25039a",
+            "actions": [
+                {
+                    "name": "Shoot",
+                    "type": "Button",
+                    "id": "78b3bd04-339f-4560-8eb9-ec0e1c3cf4ec",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "31f65655-d8cd-4fd2-aa9e-7451e22f10e9",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shoot",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
