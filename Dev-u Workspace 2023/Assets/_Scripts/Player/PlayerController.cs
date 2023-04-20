@@ -5,8 +5,6 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private Vector2 movementDirection = Vector2.zero;
-
     private Rigidbody rb;
 
     [SerializeField]
@@ -36,6 +34,7 @@ public class PlayerController : MonoBehaviour
     {
         rb.velocity = new Vector3(movementDirection.x, -1f, movementDirection.y) * speed; 
     }
+
 
     private void Shoot()
     {

@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Veteranos/Multiplayer.unity
+    guid: 103f7e309c77fc844bef6152110342e1
   m_configObjects: {}
