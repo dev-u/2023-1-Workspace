@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Veteranos/Multiplayer.unity
-    guid: 103f7e309c77fc844bef6152110342e1
+    path: Assets/Scenes/Veteranos/MultiScene/LevelScene.unity
+    guid: a5166ba7023fc3a4aa48243291a7c398
+  - enabled: 1
+    path: Assets/Scenes/Veteranos/MultiScene/SceneCore.unity
+    guid: be0162ca69e6b5d43be0492940f3d48a
+  - enabled: 1
+    path: Assets/Scenes/Veteranos/MultiScene/SceneUI.unity
+    guid: c31afc9836cd8584082f5e768045c6da
+  - enabled: 1
+    path: Assets/Scenes/Veteranos/MultiScene/SceneOccluded.unity
+    guid: a462f5ca715bfe449bc7699919f53367
   m_configObjects: {}
